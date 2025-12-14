@@ -1,1 +1,4 @@
 This is a test. Testing and learning git commands.
+
+Successfully added the remote development extension and opened the text file using code command in the wsl terminal.
+
